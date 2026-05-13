@@ -1,0 +1,15 @@
+{
+    "name": "diana_doc/laba47",
+    "authors": [
+        {
+            "name": "Test",
+            "email": "test@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Photos\\": ""
+        }
+    }
+}
